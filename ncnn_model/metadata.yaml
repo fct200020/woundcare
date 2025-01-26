@@ -1,0 +1,19 @@
+description: Ultralytics YOLO11l model trained on /content/datasets/dafJEIo9Oj/data.yaml
+author: Ultralytics
+date: '2025-01-17T03:47:21.783065'
+version: 8.3.56
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: W000
+  1: W001
+  2: W002
+  3: W004
+  4: W008
+  5: W010
