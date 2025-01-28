@@ -24,4 +24,31 @@ WoundCare ( Zhiyu ) is a AI model dataset which devlopped by Fong Chong School o
 
 
 <h1>Model</h1>
-WoundCare Model.
+WoundCare Model (Zhiyu) was trained using the YOLO11I architecture on an Nvidia A100 GPU. The training process involved 7,686 annotated images over 100 epochs to optimize detection accuracy. To enhance model robustness and generalization, data preprocessing and augmentation techniques were rigorously applied, including:
+
+ <ul>  
+            <li><strong>Auto-orientation correction</strong> <em>(standardized image alignment)</em></li>  
+            <li><strong>Resizing</strong> <em>(input dimensionality consistency)</em></li>  
+            <li><strong>Spatial augmentations:</strong>  
+                <ul>  
+                    <li style="margin-left: 20px;">- Horizontal/vertical flipping</li>  
+                    <li style="margin-left: 20px;">- Rotation</li>  
+                </ul>  
+            </li>  
+            <li><strong>Photometric adjustments:</strong>  
+                <ul>  
+                    <li style="margin-left: 20px;">- Brightness variation</li>  
+                </ul>  
+            </li>  
+            <li><strong>Noise injection</strong> <em>(artifact resilience enhancement)</em></li>  
+  </ul>  
+  
+
+<h1>License</h1>
+This dataset and model are licensed under the AGPL-3.0 License. During training process, please note that our model has used :
+
+<ul>
+  <li>WoundCare Dataset: BY-NC-SA 4.0</li>
+  <li>WoundCare Model: AGPL-3.0 License</li>
+</ul>
+
