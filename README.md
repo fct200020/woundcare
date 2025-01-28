@@ -45,7 +45,7 @@ WoundCare Model (Zhiyu) was trained using the YOLO11I architecture on an Nvidia 
   
 
 <h1>License</h1>
-This dataset and model are licensed under the AGPL-3.0 License. During training process, please note that our model has used :
+This dataset and model are licensed under two Licenses. During training process, please note that our model has used :
 
 <ul>
   <li>WoundCare Dataset: BY-NC-SA 4.0</li>
