@@ -17,7 +17,7 @@ WoundCare ( Zhiyu ) is a AI model dataset which devlopped by Fong Chong School o
 <tbody>
   <tr>
     <td class="tg-0lax">Model ( YOLO11I )</td>
-    <td class="tg-0lax">Not Available</td>
+    <td class="tg-0lax">View in Releases</td>
   </tr>
 </tbody>
 </table>
