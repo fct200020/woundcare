@@ -42,10 +42,18 @@ WoundCare Model (Zhiyu) was trained using the YOLO11I architecture on an Nvidia 
             </li>  
             <li><strong>Noise injection</strong> <em>(artifact resilience enhancement)</em></li>  
   </ul>  
-  
+
+Our model's overall metrics are listed below:
+<b>Model accuracy measured on validation set</b>
+![圖片 1](https://github.com/user-attachments/assets/336727b9-e0b9-4ebd-87ff-842b14a44a90)
+![pics2](https://github.com/user-attachments/assets/c7b8e003-6b92-4319-b0a2-7c39dc18a943)
+![pics1](https://github.com/user-attachments/assets/c3edd810-0a9f-43c8-ac52-c9f433ae020f)
+![pics](https://github.com/user-attachments/assets/10b6a157-c2d3-4e7d-84eb-30a20a472b55)
+
 
 <h1>License</h1>
 This dataset and model are licensed under two Licenses. During training process, please note that our model has used :
+
 
 <ul>
   <li>WoundCare Dataset: BY-NC-SA 4.0</li>
