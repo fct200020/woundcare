@@ -56,7 +56,7 @@ This dataset and model are licensed under two Licenses. During training process,
 
 
 <ul>
-  <li>WoundCare Dataset: BY-NC-SA 4.0</li>
-  <li>WoundCare Model: AGPL-3.0 License</li>
+  <li>WoundCare Dataset: <a href="https://github.com/fct200020/woundcare/blob/main/LICENSE-DATASET">BY-NC-SA 4.0</a></li>
+  <li>WoundCare Model: <a href="https://github.com/fct200020/woundcare/blob/main/LICENSE-MODEL">AGPL-3.0 License</a></li>
 </ul>
 
