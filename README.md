@@ -24,6 +24,9 @@ WoundCare ( Zhiyu ) is a AI model dataset and application which devlopped by Zhi
 
 <h1>Application Download</h1>
 Download the application from the Releases section. Android and iOS version are available. Please note that the application is still in development and may not be fully functional.
+<a href="https://testflight.apple.com/join/MyWKt6Wa">
+  <img height=75 alt="Get the beta on TestFlight" src="https://askyourself.app/assets/testflight.png"/>
+</a>
 
 <h1>Model</h1>
 WoundCare Model (Zhiyu) was trained using the YOLO11I architecture on an Nvidia A100 GPU. The training process involved 7,686 annotated images over 100 epochs to optimize detection accuracy. To enhance model robustness and generalization, data preprocessing and augmentation techniques were rigorously applied, including:
