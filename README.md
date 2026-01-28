@@ -24,6 +24,7 @@ WoundCare ( Zhiyu ) is a AI model dataset and application which devlopped by Zhi
 
 <h1>Application Download</h1>
 Download the application from the Releases section. Android and iOS version are available. Please note that the application is still in development and may not be fully functional.
+
 <a href="https://testflight.apple.com/join/MyWKt6Wa">
   <img height=75 alt="Get the beta on TestFlight" src="https://askyourself.app/assets/testflight.png"/>
 </a>
