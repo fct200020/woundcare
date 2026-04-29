@@ -2,7 +2,7 @@
 **This project is for educational purposes only. **
 
 <h1>Description</h1>
-WoundCare ( Zhiyu ) is a AI model dataset and application which devlopped by Zhiyu WoundCare Team in Fong Chong School of Taipa. The purpose of this project is to assit users to detect the catagories of wounds by high precision and fast efficiency model. 
+WoundCare ( Zhiyu ) is an AI model dataset and application which devlopped by Zhiyu WoundCare Team in Fong Chong School of Taipa. The purpose of this project is to assit users to detect the catagories of wounds by high precision and fast efficiency model. 
 
 <h1>Model & Dataset Download</h1>
 <table class="tg"><thead>
